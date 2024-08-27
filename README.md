@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Timothy Miamba
-- 👀 I’m interested in web development, mobile app development, machine learning and network technologies.
-- 🌱 I’m currently learning fullstack web development with JavaScript, with my current focus being the React front-end framework.
-- 💞️ I’m looking to collaborate on web and mobile app projects.
+- 👀 I’m interested in web development, mobile app development, Internet of Things(IoT), machine learning and network technologies.
+- 🌱 I’m currently learning backend web development using MVC with ExpressJS, mobile app development with React Native using Expo, and full-stack development with NextJS.
+- 💞️ I’m looking to collaborate on web, IoT and mobile app projects.
 - 📫 How to reach me: timal0361@gmail.com
 
 <!---
